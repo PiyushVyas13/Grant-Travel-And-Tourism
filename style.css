@@ -1,0 +1,52 @@
+body {
+    background-image: url(Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 180%;
+}
+
+a:link {
+    color: steelblue;
+    text-decoration: none;
+    padding: 25px;
+    font-family: cursive;
+}
+
+#Home-desc {
+    background-color: yellow;
+    padding: 15px;
+    border-color: red;
+    border-width: 3px;
+    border-style: dashed;
+}
+
+button {
+    margin: 0px 52px;
+}
+
+#title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    color: black;
+    padding: 60px;
+}
+
+.img1 {
+    width: 200px;
+    height: 150px;
+    margin: 30px;
+}
+
+#heading {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: mediumblue;
+    padding: 4px 50px;
+}
+
+#About-desc {
+    padding: 20px 30px;
+     margin: 0px 30px; 
+     text-align: justify; 
+     font-family: 'Saira Condensed', sans-serif; 
+     font-size: 25px;
+}
